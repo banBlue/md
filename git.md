@@ -1,6 +1,6 @@
 ## 对指定的commit信息进行查找过滤
 
->git log --grep="feat:促还" --name-status  --pretty=format:'%h -%d %s (%an, %cd)'
+>git log --grep="feat:促还" --name-status  --pretty=format:'%C(#d33682)%h -%d %s (%an, %cd)' --date=short
 >* 显示新增、修改和删除的文件清单:--name-status
 >* 按作者:--author="xxx"
 >* 按commit: --grep="xxx"
