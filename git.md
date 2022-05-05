@@ -15,7 +15,10 @@
 ## gitconfig快捷配置
 #### vim ~/.gitconfig
 #### alias
+>* 展示log
 > mlog = !sh -c 'git log --grep=$1 --name-status --date=short --since=2.month.ago --pretty=format:\"%C(cyan)%d %s  %C(yellow)(%an,%cd,%h)\"' -
+>* 快速推代码
+> mpush = !sh -c 'git add .&git commit -m .&git push'
 
 
 
