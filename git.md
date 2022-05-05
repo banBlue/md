@@ -1,6 +1,6 @@
 ## 对指定的commit信息进行查找过滤
 
->git log --grep='feat:促还' --name-status --date=short --pretty=format:'%C(cyan)%d %s  %C(yellow)(%an,%cd,%h)' 
+>git log --grep='feat:促还' --name-status --date=short --since=2.month.ago --pretty=format:'%C(cyan)%d %s  %C(yellow)(%an,%cd,%h)' 
 >* 显示新增、修改和删除的文件清单:--name-status
 >* 按作者:--author="xxx"
 >* 按commit: --grep="xxx"
@@ -15,7 +15,7 @@
 ## gitconfig快捷配置
 #### vim ~/.gitconfig
 #### alias
-> mlog=!sh -c 'git log --grep=$1 --name-status --date=short --pretty=format:\"%C(cyan)%d %s  %C(yellow)(%an,%cd,%h)\"' -
+> mlog = !sh -c 'git log --grep=$1 --name-status --date=short --since=2.month.ago --pretty=format:\"%C(cyan)%d %s  %C(yellow)(%an,%cd,%h)\"' -
 
 
 
