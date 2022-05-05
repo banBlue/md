@@ -10,3 +10,12 @@
 >* 过滤掉merge commit:--no-merges
 >* 定制格式输出:git log --pretty=format:"format:%Y-%m-%d  %s"
 >* 如果想同时使用--grep和--author，必须在附加一个--all-match参数
+
+
+## gitconfig快捷配置
+#### vim ~/.gitconfig
+#### alias
+> mlog=!sh -c 'git log --grep=$1 --name-status --date=short --pretty=format:\"%C(cyan)%d %s  %C(yellow)(%an,%cd,%h)\"' -
+
+
+
