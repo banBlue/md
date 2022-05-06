@@ -3,8 +3,9 @@
 # 下载mysql图形界界面
 腾讯管家mysql,下载量最高就好
 
-# node 安装 npm i mysql
+# node 使用 
 ```js
+// npm i mysql
 var mysql      = require('mysql');
 var connection = mysql.createConnection({
   host     : 'localhost', // 连接地址
@@ -29,3 +30,11 @@ connection.query('SELECT 1 + 1 AS solution', function (error, results, fields) {
 
 connection.end();
 ```
+
+# 增
+
+# 删
+
+# 改
+
+# 查
