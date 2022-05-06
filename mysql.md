@@ -3,6 +3,9 @@
 # 下载mysql图形界界面
 DBeaver
 
+# sql语句查询
+https://www.runoob.com/mysql/mysql-select-query.html
+
 # node 使用 
 ```js
 // npm i mysql
@@ -31,23 +34,36 @@ connection.query('SELECT 1 + 1 AS solution', function (error, results, fields) {
 connection.end();
 ```
 
-# 新增表
+## 新增表
 ```js
 const s = `CREATE TABLE test_test (id INT, name VARCHAR(255), age INT(3), city VARCHAR(255))`
 
 connection.query(s,(error, results, fields) => {})
 ```
 ***
-# 增
+## 删除表
 ```js
+const s = `drop table table_name`
 ```
 ***
-# 删
+## 增
 ```js
+const s = `INSERT INTO test_test (id,name,age,city) VALUES(?,?,?,?)`
+connection.query(s,[1,'ddd',18,'深圳'],(error, results, fields) => {})
 ```
 ***
-# 改
+## 删
 ```js
+const s = `delete from test_test where id=1`
+connection.query(s,(error, results, fields) => {})
 ```
 ***
-# 查
+## 改
+```js
+const s = `UPDATE table_name SET field1=new-value1, field2=new-value2`
+```
+***
+## 查
+```js
+const s = `select * from table_name`
+```
