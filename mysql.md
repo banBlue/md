@@ -1,7 +1,7 @@
 [TOC]
 
 # 下载mysql图形界界面
-腾讯管家mysql,下载量最高就好
+DBeaver
 
 # node 使用 
 ```js
@@ -31,10 +31,23 @@ connection.query('SELECT 1 + 1 AS solution', function (error, results, fields) {
 connection.end();
 ```
 
+# 新增表
+```js
+const s = `CREATE TABLE test_test (id INT, name VARCHAR(255), age INT(3), city VARCHAR(255))`
+
+connection.query(s,(error, results, fields) => {})
+```
+***
 # 增
-
+```js
+```
+***
 # 删
-
+```js
+```
+***
 # 改
-
+```js
+```
+***
 # 查
