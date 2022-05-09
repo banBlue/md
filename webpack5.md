@@ -28,6 +28,13 @@ module.exports = {
         path: path.resolve(__dirname, 'dist'), // 输出目录
         filename: 'mybudel.js' // 输出入口主文件
     },
+    resolve: { // 解析代理
+        extensions: ['.js', '.vue', '.json'], // 解析文件可以不用写后缀名 import File from '../path/to/file'
+        alias: { // 代理简化路径
+            'vue$': 'vue/dist/vue.runtime.min.js',
+            '@': resolve('src')
+        }
+    },
     module: { // 1.配置loader-处理顺序从右到左   2.'less-loader'如果直接使用这种方式的话,webpack会自动在node_modules中寻找
         rules: [
             {
