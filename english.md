@@ -23,3 +23,9 @@ Like
 ## 短文应征
 你经常做什么体育运动？
 体育运动对你有哪些好处？
+
+I like playing sports
+
+There are many kinds of sports that I enjoy,such as swimming, basketball, football, running and dancing. However, the sport that I like most is basketball, I can not play very well, but I still show great interest in it.
+
+I like playing sports, because playing sports is really a good thing. Firstly, it helps me keep healthy, Exercise is one of the most active and effective means to enhance the physical healthy. Secondly, playing sports is a good way to relax. When you are upset, sports may pull you out from depression. Finally,it is easier to make friends while you take part in sport activities, because you have the same interest. It is important for makeing friends. All in all, I get a lot from sports.
