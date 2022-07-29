@@ -29,3 +29,17 @@ I like playing sports
 There are many kinds of sports that I enjoy,such as swimming, basketball, football, running and dancing. However, the sport that I like most is basketball, I can not play very well, but I still show great interest in it.
 
 I like playing sports, because playing sports is really a good thing. Firstly, it helps me keep healthy, Exercise is one of the most active and effective means to enhance the physical healthy. Secondly, playing sports is a good way to relax. When you are upset, sports may pull you out from depression. Finally,it is easier to make friends while you take part in sport activities, because you have the same interest. It is important for makeing friends. All in all, I get a lot from sports.
+
+---
+
+## 电子书还是纸质书
+应征短文
+你喜欢电子书还是纸质书？
+理由是什么？
+
+E-book or Paper Books?
+With the popularization of computer and internet, here is comming a very hot topic; whether E-book can replace paper book or not. In my opinion, I prefer paper book and it will not be replaced forever.
+
+For one thing, although E-book are easier for carrying, we can not use them whenever we need, because they must be read through professional tools, such as mp3,mp4 and so on. what's more, plenty of knowledge has been recorded in paper book rather than E-book. To make things credible, there are not enough E-book including professional knowedge for us to use on the internet.
+
+In a word, I would choose the paper ones and I belived that peopel will still use the paper books in the future.
