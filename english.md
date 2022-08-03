@@ -43,3 +43,17 @@ With the popularization of computer and internet, here is comming a very hot top
 For one thing, although E-book are easier for carrying, we can not use them whenever we need, because they must be read through professional tools, such as mp3,mp4 and so on. what's more, plenty of knowledge has been recorded in paper book rather than E-book. To make things credible, there are not enough E-book including professional knowedge for us to use on the internet.
 
 In a word, I would choose the paper ones and I belived that peopel will still use the paper books in the future.
+
+## 最喜欢的工作
+My Farvorite Job
+你最喜欢的工作是什么？
+你为什么喜欢他？
+If you are a Junior or a senior,you may be frequently asked, What would you like to do in the future? Whenever people ask me this question, my answer is always the same, "To be teacher." Teaching has been my favorite profession all the time.My dream of being a teacher was rooted in my childhood.The patient and strict teachers in primary school have made a strong impression on me. As I grow up, I know more about my desired profession. Teachres are the engineers of the human soul. Teachers are lifelong learners while instructing students. Nowadays, versatile teachers are urgently needed. Therefore, teaching is my favorite job. 
+
+## 你喜欢的运动
+你喜欢什么运动？
+喜欢运动的原因？
+My hobby
+Everyone has his own hobbies. As for me, My hobby is to do sports in my spare time.
+I am fond of playing sports, there are the following reason, To begin with, doing sports is healthy, such as walking,running,dancing,and playing diffrent kinds of balls.
+What's more,it can improve our abilities, For example, we can take part in the activities held in our school. And maybe we can get good grades, which will make us happy and confident. All in all, doing sports will also make our spiritual life more colorful. It can make us refresh and love life better.
