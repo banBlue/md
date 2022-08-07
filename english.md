@@ -57,3 +57,21 @@ My hobby
 Everyone has his own hobbies. As for me, My hobby is to do sports in my spare time.
 I am fond of playing sports, there are the following reason, To begin with, doing sports is healthy, such as walking,running,dancing,and playing diffrent kinds of balls.
 What's more,it can improve our abilities, For example, we can take part in the activities held in our school. And maybe we can get good grades, which will make us happy and confident. All in all, doing sports will also make our spiritual life more colorful. It can make us refresh and love life better.
+
+## 锻炼的每一天
+坚持锻炼有哪些好处？
+你能否坚持每天锻炼
+Exercise Every Day
+Nowadays,having sports is becoming more and more popular. As we all know, a person who keep on taking exrecise regularly will keep fit and live a happy life.
+My favorite sport is playing basketball. After school i usually spend half an hour on it, which not only builds up my body but also makes me refresh. Playing basketball helps me relax after a period of exhuasting study and improves my study efficiency.
+Besides, through the game. I have learned the spirit of teamwork.It is also a good way for me to make new friends. In short, playing basketball enriches my life and make me more confident.
+Come on.Let's do sports together and enjoy a healthy life!
+
+## 假设参加了社区义工活动 给Tom写信
+1.你做了什么义工工作
+2.你认为做义工的意义是什么
+3.以Like 署名
+Dear Tom
+I have been a volunteer in 2010 shanghai EXPO, and it was really an unforgettable experience. Although the volunteer work was difficult and dull,I still felt very happy because it offered me a good opportunity to help visitors from foregin countries.Therefore, it can help practice my oral English.I also enhanced my rationality through through the volunteer work. I worked with other volunteers as a team and we solved different problems together. Through the whole program, I have learned a lot from others. In the end. we became good friends. I am proud of myself and surely I will treasure this experience.
+Yours,
+Li ke
