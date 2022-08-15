@@ -51,6 +51,7 @@ My Farvorite Job
 你最喜欢的工作是什么？
 你为什么喜欢他？
 If you are a Junior or a senior,you may be frequently asked, What would you like to do in the future? Whenever people ask me this question, my answer is always the same, "To be teacher." Teaching has been my favorite profession all the time.My dream of being a teacher was rooted in my childhood.The patient and strict teachers in primary school have made a strong impression on me. As I grow up, I know more about my desired profession. Teachres are the engineers of the human soul. Teachers are lifelong learners while instructing students. Nowadays, versatile teachers are urgently needed. Therefore, teaching is my favorite job. 
+
 ---
 
 ## 你喜欢的运动
