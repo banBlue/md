@@ -94,3 +94,22 @@ Watching movies at home also has a lot of advantages.First of all, you can choos
 I still prefer watching movies in a cinema. It can be taken as a good chance to go out. In addition, the atmosphere in cinemas is good.
 
 ---
+
+## Fight against Haze
+1.雾霾会造成哪些危害;
+2.我们可以采取哪些应对措施
+Nowadays, with the devlopment of enconomy and industry, pollution becomes a serious problem of our societies. And haze turned out to be the top one that we should deal with.
+The reason that haze should be controlled is based on several effects of it. First of all, haze is what be call PM2.5 which could bring into our lungs with inhalation, and causes lung disease. Also, living in haze weather would enhance the chance of getting cancer.
+The easiest way for civilians is wearing masks to keep it out of our lungs. Haze is the exhaust gas from factories and cars. Using public transportation could help to control the end gas.
+Overall, fighting against haze is not only one person's war, is depending on everyone's behavior.
+
+---
+
+## An Unforgettable Holiday
+1.哪一个假期令你难忘
+2.为什么令你难忘
+When it comes to an unforgettable holiday, everyone has his or her own idea. Some people like the Chinese New Year holiday, while others are interested in the winter holiday. From my point of view, I prefer the first one.
+There are mainly two reason for my view.On the one hand,it can help me keep fit. For example, I usually go to play basketball during the long holiday, which not only exercises my body but also improves my health. On the other hand, during the holiday, going out for fun can make me refreshed after a period  of stressful working or studying and increase my study effectiveness very well.
+In a world, I like the Chinese New Year holiday very much and benefit a lot from it.
+
+----
