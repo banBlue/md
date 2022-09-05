@@ -78,7 +78,7 @@ Come on.Let's do sports together and enjoy a healthy life!
 2.你认为做义工的意义是什么
 3.以Like 署名
 Dear Tom
-I have been a volunteer in 2010 shanghai EXPO, and it was really an unforgettable experience. Although the volunteer work was difficult and dull,I still felt very happy because it offered me a good opportunity to help visitors from foregin countries.Therefore, it can help practice my oral English.I also enhanced my rationality through through the volunteer work. I worked with other volunteers as a team and we solved different problems together. Through the whole program, I have learned a lot from others. In the end. we became good friends. I am proud of myself and surely I will treasure this experience.
+I have been a volunteer in 2010 shanghai EXPO, and it was really an unforgettable experience. Although the volunteer work was difficult and dull,I still felt very happy because it offered me a good opportunity to help visitors from foregin countries.Therefore, it can help practice my oral English.I also enhanced my rationality through the volunteer work. I worked with other volunteers as a team and we solved different problems together. Through the whole program, I have learned a lot from others. In the end. we became good friends. I am proud of myself and surely I will treasure this experience.
 Yours,
 Li ke
 
