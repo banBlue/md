@@ -67,8 +67,8 @@ What's more,it can improve our abilities, For example, we can take part in the a
 坚持锻炼有哪些好处？
 你能否坚持每天锻炼
 Exercise Every Day
-Nowadays,having sports is becoming more and more popular. As we all know, a person who keep on taking exrecise regularly will keep fit and live a happy life.
-My favorite sport is playing basketball. After school i usually spend half an hour on it, which not only builds up my body but also makes me refresh. Playing basketball helps me relax after a period of exhuasting study and improves my study efficiency.
+Nowadays,having sports is becoming more and more popular. As we all know, a person who keep on taking exercise regularly will keep fit and live a happy life.
+My favorite sport is playing basketball. After school i usually spend half an hour on it, which not only builds up my body but also makes me refresh. Playing basketball helps me relax after a period of exhausting study and improves my study efficiency.
 Besides, through the game. I have learned the spirit of teamwork.It is also a good way for me to make new friends. In short, playing basketball enriches my life and make me more confident.
 Come on.Let's do sports together and enjoy a healthy life!
 
