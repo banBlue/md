@@ -20,5 +20,13 @@
 >* 快速推代码
 > mpush = !sh -c 'git add .&git commit -m .&git push'
 
+## git合并多个commit
+>git rebase -i <you commit>
+>除了第一个 其他的pick都改为s  然后wq
+>填下最新的commit信息 然后保存
+
+## 展示分支拉出源头
+>git reflog show feature/test
+>git reflog --date=local | grep feature/test
 
 
