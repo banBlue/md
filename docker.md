@@ -1,6 +1,11 @@
 教程地址:
 https://juejin.cn/post/6844903946234904583
 
+## windows上c盘不够用问题解决
+cmd管理员运行命 通过软连接指向到D盘
+1.mklink /J "C:\Program Files\Docker" "D:\Program Files\Docker"
+2.后续正常安装即可
+
 安装docker咯
 ```
 1.在项目文件夹下新建Dockerfile文件(设计蓝图)
